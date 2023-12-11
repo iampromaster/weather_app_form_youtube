@@ -1,0 +1,16 @@
+com.example.weather_app_form_youtube.app-jetified-window-1.0.0-beta04-0 /Users/takuyamizoguchi/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.weather_app_form_youtube.app-jetified-play-services-basement-18.1.0-1 /Users/takuyamizoguchi/.gradle/caches/transforms-3/58aa1384bde170d075503b845cfcf44c/transformed/jetified-play-services-basement-18.1.0/res
+com.example.weather_app_form_youtube.app-jetified-play-services-base-18.1.0-2 /Users/takuyamizoguchi/.gradle/caches/transforms-3/781e5567158e59d38ee2b89930f9808b/transformed/jetified-play-services-base-18.1.0/res
+com.example.weather_app_form_youtube.app-jetified-annotation-experimental-1.3.0-3 /Users/takuyamizoguchi/.gradle/caches/transforms-3/937d6edc8055f6701a18eeac1a67afe6/transformed/jetified-annotation-experimental-1.3.0/res
+com.example.weather_app_form_youtube.app-lifecycle-runtime-2.3.1-4 /Users/takuyamizoguchi/.gradle/caches/transforms-3/9a249567dcb8025899915ed9a2426636/transformed/lifecycle-runtime-2.3.1/res
+com.example.weather_app_form_youtube.app-jetified-window-java-1.0.0-beta04-5 /Users/takuyamizoguchi/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.weather_app_form_youtube.app-core-1.9.0-6 /Users/takuyamizoguchi/.gradle/caches/transforms-3/c2aff38445ebad8ddeaa989ecf50f56e/transformed/core-1.9.0/res
+com.example.weather_app_form_youtube.app-debug-7 /Users/takuyamizoguchi/Downloads/weather_app_form_youtube/android/app/src/debug/res
+com.example.weather_app_form_youtube.app-main-8 /Users/takuyamizoguchi/Downloads/weather_app_form_youtube/android/app/src/main/res
+com.example.weather_app_form_youtube.app-pngs-9 /Users/takuyamizoguchi/Downloads/weather_app_form_youtube/build/app/generated/res/pngs/debug
+com.example.weather_app_form_youtube.app-resValues-10 /Users/takuyamizoguchi/Downloads/weather_app_form_youtube/build/app/generated/res/resValues/debug
+com.example.weather_app_form_youtube.app-rs-11 /Users/takuyamizoguchi/Downloads/weather_app_form_youtube/build/app/generated/res/rs/debug
+com.example.weather_app_form_youtube.app-mergeDebugResources-12 /Users/takuyamizoguchi/Downloads/weather_app_form_youtube/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.weather_app_form_youtube.app-mergeDebugResources-13 /Users/takuyamizoguchi/Downloads/weather_app_form_youtube/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.weather_app_form_youtube.app-merged_res-14 /Users/takuyamizoguchi/Downloads/weather_app_form_youtube/build/app/intermediates/merged_res/debug
+com.example.weather_app_form_youtube.app-packaged_res-15 /Users/takuyamizoguchi/Downloads/weather_app_form_youtube/build/geolocator_android/intermediates/packaged_res/debug
